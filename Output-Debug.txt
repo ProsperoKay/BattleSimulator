@@ -1,0 +1,25 @@
+﻿'BattleSimulator.exe' (Win32): Loaded 'C:\Users\isaac\source\repos\BattleSimulator\Debug\BattleSimulator.exe'. Symbols loaded.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0xec has exited with code 0 (0x0).
+The thread 0x844 has exited with code 0 (0x0).
+The thread 0x23dc has exited with code 0 (0x0).
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'BattleSimulator.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+The thread 0x8ac has exited with code 0 (0x0).
+The thread 0x2dfc has exited with code 0 (0x0).
+The thread 0x178c has exited with code 0 (0x0).
+The program '[8096] BattleSimulator.exe' has exited with code 0 (0x0).
